@@ -1,0 +1,12 @@
+How to use. 
+
+-------------
+
+When the code that i compiled is correct, the exe will begin coordinating to my existing server as a data line and show up as
+a heatmap.
+
+Fix Missing Javascript errors:
+
+Run Serverhop.bat to fix this error.
+
+--------------------------------------------------------------
